@@ -22,7 +22,7 @@ export const About = () => {
           <div className="md:col-span-3">
             <div className="space-y-4 text-[#8892b0]">
               <p className="text-lg">
-                I'm a . My expertise spans across <span className="text-[#64ffda]">web development</span>,{' '}
+                I'm a results-driven Software Developer with a degree in Business Studies and Computer Science. I have strong expertise in web development, mobile applications, and AI-driven solutions. My expertise spans across <span className="text-[#64ffda]">web development</span>,{' '}
                 <span className="text-[#64ffda]">mobile applications</span>, and{' '}
                 <span className="text-[#64ffda]">AI-driven systems</span>.
               </p>
